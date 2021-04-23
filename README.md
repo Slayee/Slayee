@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slayee
+- 👋 Hi, I’m Sagar
 - 👀 I’m interested in Front End Web Development  
 - 🌱 I’m currently learning Css and Javascript
 - 💞️ I’m looking to collaborate on
